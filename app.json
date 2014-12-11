@@ -1,0 +1,15 @@
+{
+    "reponame": "easeljs-spritesheet-sample",
+    "title": "EaselJS Spritesheet Sample",
+    "tooltip": "A sample game based on EaselJS to show the usage of spritesheet",
+    "description": "A sample game based on EaselJS to show the usage of spritesheet",
+    "articleUrl": "",
+    "keywords": ["EaselJS", "Game"],
+    "visible": "true",
+    "highlights": ["EaselJS", "Game"],
+    "appname": "demo.EaselJSSpritesheet",
+    "abbr": "",
+    "relname": "",
+    "apppreview": "true",
+    "mobile": "false"
+}
